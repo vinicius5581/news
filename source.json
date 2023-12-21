@@ -23,17 +23,369 @@
       "Political Affiliation": "Right-leaning",
       "Website": "http://www.theaustralian.com.au"
     },
-    {
-      "Country/Region": "Brazil",
-      "Media Outlet": "CartaCapital",
-      "Political Affiliation": "Left-leaning",
-      "Website": "http://www.cartacapital.com.br"
+    {   
+    "Country/Region": "Brazil",
+    "Media Outlet": "Folha de S.Paulo",
+    "Political Affiliation": "Center-left",
+    "Website": "https://www.folha.uol.com.br",
+    "State": "São Paulo"
     },
     {
-      "Country/Region": "Brazil",
-      "Media Outlet": "Jornal O Globo",
-      "Political Affiliation": "Right-leaning",
-      "Website": "http://www.oglobo.globo.com"
+    "Country/Region": "Brazil",
+    "Media Outlet": "O Globo",
+    "Political Affiliation": "Center-right",
+    "Website": "https://oglobo.globo.com",
+    "State": "Rio de Janeiro"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Estadão",
+    "Political Affiliation": "Center-right",
+    "Website": "https://www.estadao.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "G1",
+    "Political Affiliation": "Neutral",
+    "Website": "https://g1.globo.com",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Terra",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.terra.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Veja",
+    "Political Affiliation": "Center-right",
+    "Website": "https://veja.abril.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "CartaCapital",
+    "Political Affiliation": "Left-leaning",
+    "Website": "https://www.cartacapital.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Jornal do Brasil",
+    "Political Affiliation": "Center-right",
+    "Website": "https://www.jb.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Folha do Progresso",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.folhadoprogresso.com.br",
+    "State": "Pará"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "O Antagonista",
+    "Political Affiliation": "Right-leaning",
+    "Website": "https://www.oantagonista.com",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Rede Globo",
+    "Political Affiliation": "Center",
+    "Website": "https://redeglobo.globo.com",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "BBC Brasil",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.bbc.com/portuguese",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Correio Braziliense",
+    "Political Affiliation": "Center",
+    "Website": "https://www.correiobraziliense.com.br",
+    "State": "Distrito Federal"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Gazeta Online",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.gazetaonline.com.br",
+    "State": "Espírito Santo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Nordeste",
+    "Political Affiliation": "Center",
+    "Website": "https://diariodonordeste.verdesmares.com.br",
+    "State": "Ceará"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Zero Hora",
+    "Political Affiliation": "Center",
+    "Website": "https://gauchazh.clicrbs.com.br",
+    "State": "Rio Grande do Sul"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Correio 24 Horas",
+    "Political Affiliation": "Center",
+    "Website": "https://www.correio24horas.com.br",
+    "State": "Bahia"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Metro Jornal",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.metrojornal.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "A Crítica",
+    "Political Affiliation": "Center",
+    "Website": "https://www.acritica.com",
+    "State": "Amazonas"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Brasil 247",
+    "Political Affiliation": "Left-leaning",
+    "Website": "https://www.brasil247.com",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Jovem Pan",
+    "Political Affiliation": "Center-right",
+    "Website": "https://jovempan.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "R7",
+    "Political Affiliation": "Neutral",
+    "Website": "https://noticias.r7.com",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "A Tarde",
+    "Political Affiliation": "Center",
+    "Website": "https://www.atarde.com.br",
+    "State": "Bahia"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Poder360",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.poder360.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "ISTOÉ",
+    "Political Affiliation": "Center-right",
+    "Website": "https://istoe.com.br",
+    "State": "Various"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Folha do ES",
+    "Political Affiliation": "Center",
+    "Website": "https://www.folhadoes.com",
+    "State": "Espírito Santo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Jornal Opção",
+    "Political Affiliation": "Center-right",
+    "Website": "https://www.jornalopcao.com.br",
+    "State": "Goiás"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Folha de Londrina",
+    "Political Affiliation": "Center",
+    "Website": "https://www.folhadelondrina.com.br",
+    "State": "Paraná"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Gazeta do Povo",
+    "Political Affiliation": "Center-right",
+    "Website": "https://www.gazetadopovo.com.br",
+    "State": "Paraná"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Estado de Minas",
+    "Political Affiliation": "Center",
+    "Website": "https://www.em.com.br",
+    "State": "Minas Gerais"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "A Gazeta ES",
+    "Political Affiliation": "Center",
+    "Website": "https://www.agazeta.com.br",
+    "State": "Espírito Santo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Correio do Povo",
+    "Political Affiliation": "Center",
+    "Website": "https://www.correiodopovo.com.br",
+    "State": "Rio Grande do Sul"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário Gaúcho",
+    "Political Affiliation": "Center",
+    "Website": "https://diariogaucho.clicrbs.com.br",
+    "State": "Rio Grande do Sul"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "O Tempo",
+    "Political Affiliation": "Center",
+    "Website": "https://www.otempo.com.br",
+    "State": "Minas Gerais"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Amazonas",
+    "Political Affiliation": "Center",
+    "Website": "https://d24am.com",
+    "State": "Amazonas"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Pernambuco",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodepernambuco.com.br",
+    "State": "Pernambuco"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário Catarinense",
+    "Political Affiliation": "Center",
+    "Website": "https://dc.clicrbs.com.br",
+    "State": "Santa Catarina"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Noroeste",
+    "Political Affiliation": "Neutral",
+    "Website": "https://www.dnnonline.com.br",
+    "State": "Paraná"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário da Região",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diarioweb.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Sorocaba",
+    "Political Affiliation": "Center",
+    "Website": "https://www.jornalcruzeiro.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Aço",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodoaco.com.br",
+    "State": "Minas Gerais"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Cuiabá",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodecuiaba.com.br",
+    "State": "Mato Grosso"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Canoas",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodecanoas.com.br",
+    "State": "Rio Grande do Sul"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Taubaté",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariotaubate.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Uberlândia",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodeuberlandia.com.br",
+    "State": "Minas Gerais"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Grande ABC",
+    "Political Affiliation": "Center",
+    "Website": "https://www.dgabc.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Suzano",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodesuzano.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Jacareí",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodejacarei.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Santa Maria",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariosantamaria.com.br",
+    "State": "Rio Grande do Sul"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário de Sorocaba",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodesorocaba.com.br",
+    "State": "São Paulo"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Sudoeste",
+    "Political Affiliation": "Center",
+    "Website": "https://www.diariodosudoeste.com.br",
+    "State": "Paraná"
+    },
+    {
+    "Country/Region": "Brazil",
+    "Media Outlet": "Diário do Grande ABC",
+    "Political Affiliation": "Center",
+    "Website": "https://www.dgabc.com.br",
+    "State": "São Paulo"
     },
     {
       "Country/Region": "Canada",
