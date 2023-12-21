@@ -1,0 +1,231 @@
+[
+    {
+      "Country/Region": "Argentina",
+      "Media Outlet": "Pagina 12",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.pagina12.com.ar"
+    },
+    {
+      "Country/Region": "Argentina",
+      "Media Outlet": "Clarín",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.clarin.com"
+    },
+    {
+      "Country/Region": "Australia",
+      "Media Outlet": "The Guardian Australia",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.theguardian.com/au"
+    },
+    {
+      "Country/Region": "Australia",
+      "Media Outlet": "The Australian",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.theaustralian.com.au"
+    },
+    {
+      "Country/Region": "Brazil",
+      "Media Outlet": "CartaCapital",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.cartacapital.com.br"
+    },
+    {
+      "Country/Region": "Brazil",
+      "Media Outlet": "Jornal O Globo",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.oglobo.globo.com"
+    },
+    {
+      "Country/Region": "Canada",
+      "Media Outlet": "CBC News",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.cbc.ca/news"
+    },
+    {
+      "Country/Region": "Canada",
+      "Media Outlet": "National Post",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.nationalpost.com"
+    },
+    {
+      "Country/Region": "China",
+      "Media Outlet": "China Daily",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.chinadaily.com.cn"
+    },
+    {
+      "Country/Region": "China",
+      "Media Outlet": "Global Times",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.globaltimes.cn"
+    },
+    {
+      "Country/Region": "France",
+      "Media Outlet": "Le Monde",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.lemonde.fr"
+    },
+    {
+      "Country/Region": "France",
+      "Media Outlet": "Le Figaro",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.lefigaro.fr"
+    },
+    {
+      "Country/Region": "Germany",
+      "Media Outlet": "Die Tageszeitung",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.taz.de"
+    },
+    {
+      "Country/Region": "Germany",
+      "Media Outlet": "Die Welt",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.welt.de"
+    },
+    {
+      "Country/Region": "India",
+      "Media Outlet": "The Hindu",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.thehindu.com"
+    },
+    {
+      "Country/Region": "India",
+      "Media Outlet": "Swarajya",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.swarajyamag.com"
+    },
+    {
+      "Country/Region": "Israel",
+      "Media Outlet": "Haaretz",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.haaretz.com"
+    },
+    {
+      "Country/Region": "Israel",
+      "Media Outlet": "Israel Hayom",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.israelhayom.co.il"
+    },
+    {
+      "Country/Region": "Japan",
+      "Media Outlet": "The Japan Times",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.japantimes.co.jp"
+    },
+    {
+      "Country/Region": "Japan",
+      "Media Outlet": "Yomiuri Shimbun",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.yomiuri.co.jp"
+    },
+    {
+      "Country/Region": "Peru",
+      "Media Outlet": "El Comercio",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.elcomercio.pe"
+    },
+    {
+      "Country/Region": "Peru",
+      "Media Outlet": "La República",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.larepublica.pe"
+    },
+    {
+      "Country/Region": "Qatar",
+      "Media Outlet": "Al Jazeera",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.aljazeera.com"
+    },
+    {
+      "Country/Region": "Qatar",
+      "Media Outlet": "Gulf Times",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.gulf-times.com"
+    },
+    {
+      "Country/Region": "Russia",
+      "Media Outlet": "Novaya Gazeta",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.novayagazeta.ru"
+    },
+    {
+      "Country/Region": "Russia",
+      "Media Outlet": "Izvestia",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.iz.ru"
+    },
+    {
+      "Country/Region": "South Africa",
+      "Media Outlet": "Mail & Guardian",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.mg.co.za"
+    },
+    {
+      "Country/Region": "South Africa",
+      "Media Outlet": "News24",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.news24.com"
+    },
+    {
+      "Country/Region": "South Korea",
+      "Media Outlet": "The Hankyoreh",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://english.hani.co.kr"
+    },
+    {
+      "Country/Region": "South Korea",
+      "Media Outlet": "Chosun Ilbo",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.chosun.com"
+    },
+    {
+      "Country/Region": "Spain",
+      "Media Outlet": "El País",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.elpais.com"
+    },
+    {
+      "Country/Region": "Spain",
+      "Media Outlet": "ABC",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.abc.es"
+    },
+    {
+      "Country/Region": "UAE",
+      "Media Outlet": "The National",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.thenationalnews.com"
+    },
+    {
+      "Country/Region": "UAE",
+      "Media Outlet": "Khaleej Times",
+      "Political Affiliation": "Neutral",
+      "Website": "http://www.khaleejtimes.com"
+    },
+    {
+      "Country/Region": "UK",
+      "Media Outlet": "The Guardian (UK)",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.theguardian.com/uk"
+    },
+    {
+      "Country/Region": "UK",
+      "Media Outlet": "The Telegraph",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.telegraph.co.uk"
+    },
+    {
+      "Country/Region": "USA",
+      "Media Outlet": "The New York Times",
+      "Political Affiliation": "Left-leaning",
+      "Website": "http://www.nytimes.com"
+    },
+    {
+      "Country/Region": "USA",
+      "Media Outlet": "Fox News",
+      "Political Affiliation": "Right-leaning",
+      "Website": "http://www.foxnews.com"
+    }
+  ]
+  
